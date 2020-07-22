@@ -1,0 +1,28 @@
+body{
+    background: rgb(48, 48, 48);
+    font: normal 15pt Arial;
+}
+
+header{
+    color:white;
+    text-align: center;/*alinha para o centro*/
+}
+
+section{
+    color:white;
+    background: rgb(124, 124, 124); /* pinta o plano de fundo da sessão*/
+    border-radius:10px;  /*arredonda o espaço*/
+    padding: 15px; /* espaçamento da caixa*/
+    width: 500px; /*largura*/
+    margin: auto; /*margem no centro*/
+    box-shadow:3px 3px 10px rgb(0, 0, 0);/*cria uma sombra definido pelo tamanho e cor*/
+}
+select{
+    width: 200px; /*largura*/   
+}
+
+footer{
+    color: white;
+    text-align: center; /*alinha para o centro*/
+    font-style: italic; /*deixa a fonte em italico*/
+}
